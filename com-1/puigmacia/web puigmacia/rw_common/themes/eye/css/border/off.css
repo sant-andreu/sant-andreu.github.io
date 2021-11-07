@@ -1,0 +1,7 @@
+* html #container {
+	border: 1px solid transparent;
+}
+
+#container {
+	border: none;
+}

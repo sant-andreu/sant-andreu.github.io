@@ -1,0 +1,11 @@
+#mainContent {
+	margin-right: auto;
+	margin-left: 160px;
+	width: 600px;
+}
+
+#sidebarContainer {
+	left: 0px;
+	right: auto;
+	text-align: left;
+}

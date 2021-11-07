@@ -1,0 +1,21 @@
+a, h1, h2, h3, strong {
+	color: #F46B2B;
+}
+
+#sidebarContainer .sideHeader {
+	color: #F46B2B;
+}
+
+#navcontainer ul li a:hover, #navcontainer ul li a.current, #navcontainer a.currentAncenstor {
+	border-bottom: 5px solid #F46B2B;
+	color: #F46B2B;
+}
+
+#navcontainer ul ul li a:hover {
+	border-bottom: 3px solid #F46B2B;
+	color: #F46B2B;
+}
+
+.photo-title, .album-title {
+	color: #F46B2B;
+}

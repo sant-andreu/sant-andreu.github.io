@@ -1,0 +1,9 @@
+#pageHeader {
+	height: auto;
+}
+
+#pageHeader #image3 img {
+	position: relative;
+	width: 100%;
+	display: block;
+}

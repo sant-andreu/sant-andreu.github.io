@@ -1,0 +1,10 @@
+#pageHeader img {
+	display: none;
+}
+
+#pageHeader #image1, #pageHeader #image2, #pageHeader #image3, #pageHeader #image4, #pageHeader #image5 {
+	display: none;
+}
+#navcontainer {
+	display: none;
+}
